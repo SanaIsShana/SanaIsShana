@@ -3,9 +3,7 @@
 ![Logo](https://media.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif)
 
 
-Hi there 👋 ! 
-## 🚀 About Me
-My name is Sana and I'm a front-end developer. 
+Hi there 👋 ! My name is Sana and I'm a front-end developer. 
 
 ![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshana-shana%2F) ![Static Badge](https://img.shields.io/badge/website-pink?style=for-the-badge&link=https%3A%2F%2Fsanaisshana.github.io%2Fportfolio%2F)
 

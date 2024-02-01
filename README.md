@@ -5,7 +5,8 @@
 # Hi there 👋 ! 
 #### My name is Sana and I'm a front-end developer. 
 
-![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshana-shana%2F) ![Static Badge](https://img.shields.io/badge/website-pink?style=for-the-badge&link=https%3A%2F%2Fsanaisshana.github.io%2Fportfolio%2F)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshana-shana%2F)](https://www.linkedin.com/in/shana-shana/)
+[![Static Badge](https://img.shields.io/badge/website-pink?style=for-the-badge&link=https%3A%2F%2Fsanaisshana.github.io%2Fportfolio%2F)](https://www.sanayondo.com/)
 
 - I love cats 🐱
 - Coffee and tea ☕️
